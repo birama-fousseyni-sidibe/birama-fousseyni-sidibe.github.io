@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://birama-fousseyni-sidibe.github.io/sitemap.xml
